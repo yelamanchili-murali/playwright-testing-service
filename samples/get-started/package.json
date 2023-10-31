@@ -11,6 +11,6 @@
   "license": "MIT",
   "devDependencies": {
     "@playwright/test": "1.37",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.3.1"
   }
 }
